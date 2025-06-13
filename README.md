@@ -16,8 +16,8 @@ A fun command-line alarm clock application that wakes you up by playing a random
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/youtube-alarm-clock.git
-   cd youtube-alarm-clock
+   git clone https://github.com/sainandan2005/Youtube-Alarm-Clock.git
+   cd Youtube-Alarm-Clock
    ```
 
 2. **Install dependencies:**
